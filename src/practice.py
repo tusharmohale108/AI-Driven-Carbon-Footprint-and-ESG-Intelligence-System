@@ -1,3 +1,6 @@
+from carbon_calculator import emission_calculator
+
+emission_calculator(300, 0.5)
 
 def calculate_total(activities):
     sum = 0
