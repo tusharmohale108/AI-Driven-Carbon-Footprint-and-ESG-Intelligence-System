@@ -1,0 +1,3 @@
+# Day 1
+# No external Python packages required yet.
+# Project dependencies will be added as required.
