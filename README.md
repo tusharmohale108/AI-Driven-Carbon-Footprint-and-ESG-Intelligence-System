@@ -73,3 +73,10 @@ Completed:
 - Learned Python modules
 - Created a Python virtual environment
 - Created a basic vendor emission program
+
+Day 3
+- virtual envirment setup
+
+Day 4 
+- install numpy 
+- practice on numpy

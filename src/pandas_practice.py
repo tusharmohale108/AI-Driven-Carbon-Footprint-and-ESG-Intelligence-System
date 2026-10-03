@@ -22,7 +22,7 @@ print("\nTotal activity = ", df["activity"].sum())
 print("\nAverage activity = ", df["activity"].mean())
 print("\nTotal emission = ", df["emission"].sum())
 
-contraint = df[df["activity"] > 300]
+high_activity = df[df["activity"] > 300]
 
 print("\n activites > 300", contraint)
 
